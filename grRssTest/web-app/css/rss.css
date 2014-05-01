@@ -1,0 +1,10 @@
+item {
+  display: block;
+  margin-bottom: 30pt;
+  margin-left; 0;
+  border: solid 1px red;
+}
+
+title{
+	text-decoration: line-through;
+}
